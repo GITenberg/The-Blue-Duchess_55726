@@ -1,11 +1,14 @@
 _repo: The-Blue-Duchess_55726
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La duchesse bleue. English
 contributor:
   translator:
     agent_name: Tristan, Ernest
     gutenberg_agent_id: '48477'
     url: http://www.gutenberg.org/2009/agents/48477
+covers:
+- cover_type: archival
+  image_path: 55726-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourget, Paul
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1346
     wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55726#The-Blue-Duchess
 gutenberg_issued: '2017-10-10'
 gutenberg_type: Text
 identifiers:
