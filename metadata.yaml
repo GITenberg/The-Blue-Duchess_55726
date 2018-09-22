@@ -1,0 +1,34 @@
+_repo: The-Blue-Duchess_55726
+_version: 0.0.1
+alternative_title: La duchesse bleue. English
+contributor:
+  translator:
+    agent_name: Tristan, Ernest
+    gutenberg_agent_id: '48477'
+    url: http://www.gutenberg.org/2009/agents/48477
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_issued: '2017-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: The Blue Duchess
+url: http://www.gutenberg.org/ebooks/55726
